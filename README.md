@@ -22,9 +22,7 @@ Welcome to my interactive portfolio showcasing my skills, education, and project
 |----------------|-------------------------------|
 | Frontend       | React, JavaScript, CSS3      |
 | Backend        | Node.js                       |
-| Databases      | MongoDB                       |
-| Mobile         | Flutter                       |
-| Tools          | Git, GitHub, Android Studio   |
+| Tools          | Git, GitHub                   |
 
 ## 🚀 Getting Started
 
