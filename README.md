@@ -1,7 +1,6 @@
 # 💼 Anjali Yadav - Professional Portfolio
 
 [![React Badge](https://img.shields.io/badge/React-18.2-61DAFB?logo=react)](https://reactjs.org/)
-[![Portfolio Badge](https://img.shields.io/badge/🚀_Live_Portfolio-%23000000?style=flat)](YOUR_LIVE_LINK)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/anjali-yadav-6a6527198)
 
 Welcome to my interactive portfolio showcasing my skills, education, and projects as a BSc IT graduate seeking software development opportunities.
